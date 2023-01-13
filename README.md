@@ -22,7 +22,7 @@ and smaller/startups companies like
 See [LinkedIn](https://www.linkedin.com/in/paulpower/) for full details.
 
 #### I’m currently learning ...
-* S4 + Parquet + DuckDB for self service, serverless, analytics
+* S4 + Parquet + DuckDB for self service, serverless, analytics (plus potentially polars and ibis)
 * The alternative data and technographics industry [technographics](https://www.semrush.com/blog/technographics/) 
 * [Internet wide scan surveys](https://securitytrails.com/blog/internet-scanning)
 
