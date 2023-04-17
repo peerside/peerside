@@ -15,9 +15,9 @@ I've worked with teams at corporates like
 
 and smaller/startups companies like
 * [Cygnvs](https://www.linkedin.com/company/cygnvs/) - SaaS based cybersecurity data collection and analytics
-* [Similarity Systems (acquired by Informatica)]() - Self service data quality software for data analysts and data stewards
+* [Similarity Systems (acquired by Informatica)](https://www.linkedin.com/company/informatica/) - Self service data quality software for data analysts and data stewards
 * [Cognotec](https://www.linkedin.com/company/cognotec/) - Foreign exchange liquidity as a managed service
-* [Iona](https://en.wikipedia.org/wiki/IONA_Technologies)) - Distributed Systems and Messaging
+* [Iona](https://en.wikipedia.org/wiki/IONA_Technologies) - Distributed Systems and Messaging
 
 See [LinkedIn](https://www.linkedin.com/in/paulpower/) for full details.
 
