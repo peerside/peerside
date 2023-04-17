@@ -2,7 +2,7 @@
 
 
 ### Who I am ..
-I'm Paul Power, a staff level software engineer and experienced technology leader with over 20 years experience shipping successful commercial software by helping teams identify what design and prioritization tradeoffs they should focus on.
+I'm Paul Power, a staff level software engineer and experienced technology leader with over 20 years experience shipping successful commercial software by helping teams identify and prioritise the design tradeoffs they should focus on.
 
 As of January 2023 I'm looking for a new job with a company leveraging data or helping their customers to so. My ideal role is as an individual contributor and senior, business aware, technology leader for an established team or CTO for a smaller startup. 
 
