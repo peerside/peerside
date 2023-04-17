@@ -28,9 +28,9 @@ See [LinkedIn](https://www.linkedin.com/in/paulpower/) for full details.
 
 
 #### Reach me via ...
-* [Linkedin](url)
-* [twitter](url)
-* [github](url)
+* [Linkedin](https://www.linkedin.com/in/paulpower/?originalSubdomain=ie)
+* [twitter](https://www.twitter.com/peerside)
+* [github](https://github.com/)
 * A coffee in Dublin (Ireland, not the one in the East Bay)
 
 
