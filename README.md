@@ -4,8 +4,7 @@
 ### Who I am ..
 :wave: I'm Paul Power, an experienced software and data technology leader with over 20 years experience shipping successful commercial products. I am based in [Dublin, Ireland](https://en.wikipedia.org/wiki/Dublin) but I spend most of my time working and communicating with globally distributed teams.
 
-I'm seeking my next challange and a team focused on leveraging data to do something daring or disruptive. I add most value as a director level individual contributor where I work with diverse teams to proactively identify and unblock issues, recommend solutions and identify oppertunities. If your project sounds like it might be a match then ping me at any of the contacts below.
-
+I'm seeking my next challange and a team focused on leveraging data to do something daring or disruptive. I add most value as a director level individual contributor where I work with diverse teams to proactively identify and unblock issues, recommend solutions and identify oppertunities. If your project sounds like it might be a match, and expecially if we share interests in any of the areas I'm exploring below, then please get in touch.
 
 #### My background ...
 I've worked with teams at corporates like 
