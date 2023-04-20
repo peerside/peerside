@@ -1,37 +1,40 @@
 
-
-
 ### Who I am ..
-:wave: I'm Paul Power, an experienced software and data technology leader with over 20 years experience shipping successful commercial products. I am based in [Dublin, Ireland](https://en.wikipedia.org/wiki/Dublin) but I spend most of my time working and communicating with globally distributed teams.
+:wave: I'm Paul Power, an experienced software and data technology leader with over 20 years experience shipping successful commercial products. I am based in [Dublin, Ireland](https://en.wikipedia.org/wiki/Dublin) but I mostly work with globally distributed teams. 
 
-I'm seeking my next challange and a team focused on leveraging data to do something daring or disruptive. I add most value as a director level individual contributor where I work with diverse teams to proactively identify and unblock issues, recommend solutions and identify oppertunities. If your project sounds like it might be a match, and expecially if we share interests in any of the areas I'm exploring below, then please get in touch.
+I am a director level individual contributor who helps product and development teams to identify barriers business value and prioritising the most approriate areas and design tradeoffs to focus on. I've been described as a distinquished engineer, senior staff engineer, chief architect, CTO and even product lead depending on the company and context. Personally I see myself as an experienced generalist who has a knack of identifing and solving awkward problems that span multiple, diverse, teams and stakeholders.
 
-#### My background ...
-I've worked with teams at corporates like 
-* [Elastic](https://www.linkedin.com/company/elastic/) - SaaS, on premise and serverless platform for data management and analytics on Elasticsearch
-* [Workday](https://www.linkedin.com/company/workday/) - SaaS based new customer data ingestion and onboarding platform for HR data
-* [Informatica](https://www.linkedin.com/company/informatica/) - On Premise and SaaS data quality testing, preparation and integration products
+I'm open to new oppertunities right now so if you think I might be a good fit for your team or that I can help as a consultant or advisor then please get in touch to explore.
 
-and smaller/startups companies like
+#### My previous experiences ...
+My experience to data has tended to be focused on building backend platforms, distributed services and data management and integration.
+
+Specifically I've worked with teams at corporates like 
+* [Elastic](https://www.linkedin.com/company/elastic/) - SaaS/on premise/serverless platform for data management and analytics on Elasticsearch
+* [Workday](https://www.linkedin.com/company/workday/) - SaaS data ingestion and onboarding platform for HR data
+* [Informatica](https://www.linkedin.com/company/informatica/) - On Premise/SaaS platform and products for data quality testing, preparation and integration
+
+I've also enjjoyed working with smaller/startups companies like
 * [Cygnvs](https://www.linkedin.com/company/cygnvs/) - SaaS based cybersecurity data collection and analytics
-* [Similarity Systems (acquired by Informatica)](https://www.linkedin.com/company/informatica/) - Self service data quality software for data analysts and data stewards
-* [Cognotec](https://www.linkedin.com/company/cognotec/) - Foreign exchange liquidity as a managed service
-* [IONA Technologies](https://en.wikipedia.org/wiki/IONA_Technologies) - Distributed Systems and Messaging
+* [Similarity Systems (acquired by Informatica)](https://www.linkedin.com/company/informatica/) - Self service data quality product for data analysts and data stewards
+* [Cognotec](https://www.linkedin.com/company/cognotec/) - Foreign exchange liquidity as a managed service (pre "SaaS")
+* [IONA Technologies](https://en.wikipedia.org/wiki/IONA_Technologies) - Corba based distributed Systems and messaging products
 
-See [LinkedIn](https://www.linkedin.com/in/paulpower/) for full details.
+See [LinkedIn](https://www.linkedin.com/in/paulpower/) for more details.
 
 #### I’m currently exploring ...
 * S3/Parquet/DuckDB for self service, serverless, analytics
-  * currently impressed by [DuckDB](https://duckdb.org), [Clickhouse](https://clickhouse.com/), [stoic](https://stoic.com), [PuffinDB](https://github.com/sutoiku/puffin), [Rill Data](https://www.rilldata.com/) and 
+  * Impressed by [DuckDB](https://duckdb.org), [Clickhouse](https://clickhouse.com/), [stoic](https://stoic.com), [PuffinDB](https://github.com/sutoiku/puffin), [Rill Data](https://www.rilldata.com/) and 
 [Motherduck](https://motherduck.com/)
 * Building data products, alternative data and the [technographics](https://www.semrush.com/blog/technographics/) industry
-* Scanning and Scraping a subset of the web without breaking the bank [Internet wide scan surveys](https://securitytrails.com/blog/internet-scanning)
+* Scanning a subset of the web without breaking the bank [Internet wide scan surveys](https://securitytrails.com/blog/internet-scanning)
+* AI and LLMs - like everyone else 😄 
 
 
 #### Reach me via ...
 * [Linkedin](https://www.linkedin.com/in/paulpower/?originalSubdomain=ie)
 * [twitter](https://www.twitter.com/peerside)
 * [github](https://github.com/)
-* A coffee in Dublin (Ireland, not the one in the San Francisco East Bay )
+* email: paul dot power at gmail dot com. 
 
 
