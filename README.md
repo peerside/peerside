@@ -14,7 +14,7 @@ Specifically I've worked with teams at corporates like
 * [Workday](https://www.linkedin.com/company/workday/) - SaaS data ingestion and onboarding platform for HR data
 * [Informatica](https://www.linkedin.com/company/informatica/) - On Premise/SaaS platform and products for data quality testing, preparation and integration
 
-I've also enjjoyed working with smaller/startups companies like
+I've also enjoyed working with smaller/startups companies like
 * [Cygnvs](https://www.linkedin.com/company/cygnvs/) - SaaS based cybersecurity data collection and analytics
 * [Similarity Systems (acquired by Informatica)](https://www.linkedin.com/company/informatica/) - Self service data quality product for data analysts and data stewards
 * [Cognotec](https://www.linkedin.com/company/cognotec/) - Foreign exchange liquidity as a managed service (pre "SaaS")
