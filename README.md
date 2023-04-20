@@ -24,12 +24,12 @@ See [LinkedIn](https://www.linkedin.com/in/paulpower/) for more details.
 
 #### I’m currently exploring ...
 * S3/Parquet/DuckDB for self service, serverless, analytics
-  * Impressed by [DuckDB](https://duckdb.org), [Clickhouse](https://clickhouse.com/), [stoic](https://stoic.com), [PuffinDB](https://github.com/sutoiku/puffin), [Rill Data](https://www.rilldata.com/) and 
+  * [DuckDB](https://duckdb.org), [Clickhouse](https://clickhouse.com/), [stoic](https://stoic.com), [PuffinDB](https://github.com/sutoiku/puffin), [Rill Data](https://www.rilldata.com/) and 
 [Motherduck](https://motherduck.com/)
 * Building data products from internet scans
- * [technographics](https://www.semrush.com/blog/technographics/)
- * [Internet Scanning](https://securitytrails.com/blog/internet-scanning)
- * [Certificate Transparency Logs](https://certificate.transparency.dev/)
+  * [technographics](https://www.semrush.com/blog/technographics/)
+  * [Internet Scanning](https://securitytrails.com/blog/internet-scanning)
+  * [Certificate Transparency Logs](https://certificate.transparency.dev/)
 * AI and LLMs - like everyone else 😄 
 
 
