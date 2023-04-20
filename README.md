@@ -7,7 +7,7 @@ I am a director level individual contributor who helps product and development t
 I'm open to new oppertunities right now so if you think I might be a good fit for your team or that I can help as a consultant or advisor then please get in touch to explore.
 
 #### My previous experiences ...
-My experience to data has tended to be focused on building backend platforms, distributed services and data management and integration.
+I have been fortunate to spend much of my career working on building backend platforms, distributed services and products focused on data management and integration.
 
 Specifically I've worked with teams at corporates like 
 * [Elastic](https://www.linkedin.com/company/elastic/) - SaaS/on premise/serverless platform for data management and analytics on Elasticsearch
