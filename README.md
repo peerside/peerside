@@ -2,17 +2,17 @@
 ### Who I am ..
 :wave: I'm Paul Power, an experienced software and data technology leader with over 20 years experience shipping successful commercial products. I am based in [Dublin, Ireland](https://en.wikipedia.org/wiki/Dublin) but I mostly work with globally distributed teams. 
 
-I am a director level individual contributor who helps product and development teams to identify barriers business value and prioritising the most approriate areas and design tradeoffs to focus on. I've been described as a distinquished engineer, senior principal engineer, senior staff engineer, chief architect, CTO and even product lead depending on the company and context. Personally I see myself as an experienced generalist who has a knack of identifing and solving awkward problems that span multiple, diverse, teams and stakeholders.
+I am a senior individual contributor who helps product and development teams identify barriers to business value and prioritise the most approriate areas to focus and deliver on. I've been described as a distinquished engineer, senior principal engineer, senior staff engineer, chief architect, CTO and product lead depending on the company and context. I see myself as an experienced generalist who has just happens to be very good at identifing and solving awkward problems that typically span multiple, diverse, teams and stakeholders.
 
 I'm open to new oppertunities right now so if you think I might be a good fit for your team or that I can help as a consultant or advisor then please get in touch to explore.
 
 #### My previous experiences ...
-I have been fortunate to spend much of my career working on building backend platforms, distributed services and products focused on data management and integration.
+I have been fortunate to spend much of my career working on building platforms, distributed services and products focused on data management and integration.
 
 Specifically I've worked with teams at corporates like 
-* [Elastic](https://www.linkedin.com/company/elastic/) - SaaS/on premise/serverless platform for data management and analytics on Elasticsearch
-* [Workday](https://www.linkedin.com/company/workday/) - SaaS data ingestion and onboarding platform for HR data
-* [Informatica](https://www.linkedin.com/company/informatica/) - On Premise/SaaS platform and products for data quality testing, preparation and integration
+* [Elastic](https://www.linkedin.com/company/elastic/) - As Kibana tech lead for the Kibana platform for Elasticsearch based analytics and applicatons
+* [Workday](https://www.linkedin.com/company/workday/) - As senior principal of of a SaaS data ingestion and onboarding platform for customer HR data
+* [Informatica](https://www.linkedin.com/company/informatica/) - As Chief Architect for SaaS and on premise data profiling, quality analysis, preparation and integration products
 
 I've also enjoyed working with smaller/startups companies like
 * [Cygnvs](https://www.linkedin.com/company/cygnvs/) - SaaS based cybersecurity data collection and analytics
