@@ -2,7 +2,7 @@
 ### Who I am ..
 :wave: I'm Paul Power, an experienced software and data technology leader with over 20 years experience shipping successful commercial products. I am based in [Dublin, Ireland](https://en.wikipedia.org/wiki/Dublin) but I mostly work with globally distributed teams. 
 
-I am a director level individual contributor who helps product and development teams to identify barriers business value and prioritising the most approriate areas and design tradeoffs to focus on. I've been described as a distinquished engineer, senior staff engineer, chief architect, CTO and even product lead depending on the company and context. Personally I see myself as an experienced generalist who has a knack of identifing and solving awkward problems that span multiple, diverse, teams and stakeholders.
+I am a director level individual contributor who helps product and development teams to identify barriers business value and prioritising the most approriate areas and design tradeoffs to focus on. I've been described as a distinquished engineer, senior principal engineer, senior staff engineer, chief architect, CTO and even product lead depending on the company and context. Personally I see myself as an experienced generalist who has a knack of identifing and solving awkward problems that span multiple, diverse, teams and stakeholders.
 
 I'm open to new oppertunities right now so if you think I might be a good fit for your team or that I can help as a consultant or advisor then please get in touch to explore.
 
